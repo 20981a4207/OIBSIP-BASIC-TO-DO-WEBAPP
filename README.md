@@ -1,4 +1,4 @@
-# Simple Todo List Web App with Tailwind CSS and JavaScript
+# Simple Todo List Web App
 
 This repository contains a simple and elegant Todo List web app built using HTML CSS and JavaScript. The app allows users to create, manage, and save todos, all while enjoying a beautiful user interface design.
 
